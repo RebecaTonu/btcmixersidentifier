@@ -1,4 +1,4 @@
-# Comparative evaluation of sender and receiver of mixer-like detection heuristics
+# Comparative assessment of sender and receiver perspectives in mixer-like detection
 
 This section presents a structured evaluation of transaction-level heuristics designed to identify mixer-like behavior on the blockchain. The analysis examines three core detection strategies: Balance_Dust, Fee_shrinkage, and Delay-based filtering—applied from both the sender and receiver perspectives.
 
